@@ -1,0 +1,2 @@
+Première ligne du fichier feature.txt
+Deuxième ligne ajoutée
